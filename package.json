@@ -1,0 +1,25 @@
+{
+  "name": "nft-erc1155",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dericksm/erc-1155-token.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dericksm/erc-1155-token/issues"
+  },
+  "homepage": "https://github.com/dericksm/erc-1155-token#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "@truffle/hdwallet-provider": "^1.5.1",
+    "babel-polyfill": "6.26.0",
+    "babel-register": "6.26.0"
+  }
+}
